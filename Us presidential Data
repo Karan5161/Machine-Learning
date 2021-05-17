@@ -1,1 +1,3 @@
-Here I will be using KNN as the data given is supervised learning and incase the data is unsupervised then you can use K-Means. Here in this file there is a target variable known as Win/Loss, so based on the data i will be divinding the data in train and test. Here main aim is to understand with clustering method would be used on this kind of data as the data is supervised we will be using KNN.
+Here I will be using KNN as the data given is supervised learning and incase the data is unsupervised then you can use K-Means. Here in this file there is a target variable known 
+as Win/Loss, so based on the data i will be divinding the data in train and test. Here main aim is to understand with clustering method would be used on this kind of data as the
+data is supervised we will be using KNN.
